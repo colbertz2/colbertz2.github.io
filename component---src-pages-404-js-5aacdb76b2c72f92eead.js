@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcolbertz_web_resume=self.webpackChunkcolbertz_web_resume||[]).push([[883],{429:function(e,t,l){l.r(t);l(7294);var n=l(1883),s=l(917);const r=e=>{let{children:t}=e;return(0,s.tZ)("div",{style:{textAlign:"center"}},t)};t.default=()=>(0,s.tZ)(r,null,(0,s.tZ)("h1",null,"Oops!"),(0,s.tZ)("p",null,"This is the 404 page. The page you're looking for doesn't exist."),(0,s.tZ)(n.Link,{to:"/"},"Home"))}}]);
+//# sourceMappingURL=component---src-pages-404-js-5aacdb76b2c72f92eead.js.map
